@@ -149,4 +149,4 @@ inc_after_page_list : sidebar.html
 inc_before_post_list :
 inc_after_post_list :
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
